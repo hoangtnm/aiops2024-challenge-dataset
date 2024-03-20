@@ -1,11 +1,26 @@
 ---
 license: Apache License 2.0
+text:
+  table-question-answering:
+    language:
+      - zh
+  question-answering:
+    language:
+      - zh
+tags:
+  - Qianwen
+  - AIOPS
 ---
-数据集文件元信息以及数据文件，请浏览“数据集文件”页面获取。
 
-当前数据集卡片使用的是默认模版，数据集的贡献者未提供更加详细的数据集介绍，但是您可以通过如下GIT Clone命令，或者ModelScope SDK来下载数据集
+## 数据集描述
+赛事主办方提供两个ZEDX文档，以及将ZEDX文档解析后得到的txt文件。
 
-#### 下载方法 
-:modelscope-code[]{type="sdk"}
-:modelscope-code[]{type="git"}
+### 运维文档zedx源文件
+- 大小： 227MB
+- 文件格式：zedx文件
+- 文件数量：2
 
+### 运维文档zedx解析后的txt文件
+- 大小：68MB
+- 文件格式：txt文件
+- 文件数量：8834
