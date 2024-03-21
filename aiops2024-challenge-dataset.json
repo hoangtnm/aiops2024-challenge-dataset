@@ -1,1 +1,6 @@
-{"default":{}}
+{"question_file": {
+    "train": {
+        "meta": "question.jsonl",
+        "file": "jsonl"
+    }
+}}
