@@ -48,3 +48,56 @@
 {"id": 48, "query": "什么角色可以创建子组织？"}
 {"id": 49, "query": "N7接口的IMSI、MSISDN、IMEISV分别在哪个参数中传递"}
 {"id": 50, "query": "RCP的HTTP信令路由包括哪些功能？"}
+{"id": 51, "query": "EMSPlus的Reporting局流量报表的功能有哪些"}
+{"id": 52, "query": "告警无法处理或无法恢复一般该怎么办？"}
+{"id": 53, "query": "故障来源有哪些？"}
+{"id": 54, "query": "对于ZXR10设备来说，告警级别分为哪八个级别？"}
+{"id": 55, "query": "uMAC支持在线配置和离线配置，区别在什么地方？"}
+{"id": 56, "query": "AMF使用什么协议来保证时间正确"}
+{"id": 57, "query": "NFS是能够独立完成某个具体功能的软件实体，NFS包括那几类"}
+{"id": 58, "query": "Dump功能中输出的文件中包含的用户信息有哪些内容"}
+{"id": 59, "query": "4G已经提供了VoLTE语音功能，为什么还要引入CSFB语音功能？"}
+{"id": 60, "query": "VNF弹性分几类？"}
+{"id": 61, "query": "处理故障需要遵循哪些操作思路？"}
+{"id": 62, "query": "AMF用户信令跟踪，可以跟踪哪些接口的信令？"}
+{"id": 63, "query": "大量用户无法注册时候应该怎么排查故障？"}
+{"id": 64, "query": "如何实现对MU指定需要存储的字段数据"}
+{"id": 65, "query": "如何查看虚机的内存占用？"}
+{"id": 66, "query": "怎么调整通用查询结果中列的顺序"}
+{"id": 67, "query": "当上报“用户License不足一级告警”且“告警类型”为“5G在线用户数不足”时，应如何进行确认？"}
+{"id": 68, "query": "EMSPlus可以接收哪些类型的数据？"}
+{"id": 69, "query": "AMF如何识别对端SMF故障或恢复？"}
+{"id": 70, "query": "ZXUN uMAC引入GSU N+M负荷分担有何作用"}
+{"id": 71, "query": "IPDR怎么查询用户上网日志？"}
+{"id": 72, "query": "EMSPlus出现告警后处理办法有哪些？"}
+{"id": 73, "query": "故障类别有哪些？"}
+{"id": 74, "query": "AMF网元的采集方式有哪几种？"}
+{"id": 75, "query": "License文件过期影响业务怎么办？"}
+{"id": 76, "query": "如何查询MDS节点IP地址？"}
+{"id": 77, "query": "不同类型的SC间是如何发现彼此的？"}
+{"id": 78, "query": "uMAC支持适应哪些IaaS云平台"}
+{"id": 79, "query": "服务化架构由一系列业务服务NFS和服务组件SC构成。uMAC的3G的媒体面报文处理由哪个SC负责"}
+{"id": 80, "query": "开启全量日志上报需要开启license项是哪个？"}
+{"id": 81, "query": "EMSPlus Logging产品架构中数据分发层的功能是什么？"}
+{"id": 82, "query": "CPU使用率过高的影响有哪些？"}
+{"id": 83, "query": "安装前的准备工作有哪些？"}
+{"id": 84, "query": "怎么查看是否有用户尝试执行未授权的命令？"}
+{"id": 85, "query": "服务化架构由一系列业务服务NFS和服务组件SC构成。uMAC的业务类服务包含哪些服务"}
+{"id": 86, "query": "服务化架构由一系列业务服务NFS和服务组件SC构成。uMAC的MMESGSN Sevice服务包含哪些SC"}
+{"id": 87, "query": "SGSN/MME网元的采集方式有哪几种？"}
+{"id": 88, "query": "AMF软参包含哪几类？"}
+{"id": 89, "query": "EMSPlus Logging产品网络平面有哪几种类型？"}
+{"id": 90, "query": "在某些情况下，维护人员希望了解本网元相关的无线网元的相关信息，应如何查询？"}
+{"id": 91, "query": "如何创建定时任务？"}
+{"id": 92, "query": "EMSPlus告警种类有种？"}
+{"id": 93, "query": "uMAC网元VNFC有哪几种备份方式"}
+{"id": 94, "query": "EMSPlus支持MAN节点扩容吗？"}
+{"id": 95, "query": "EMSPlus_HeartBeat_NET如何进行IP地址规划"}
+{"id": 96, "query": "EMSPlus支持DPU和其他业务模块同时扩容吗？"}
+{"id": 97, "query": "Logging日志查询预定义模板包含哪些？"}
+{"id": 98, "query": "EMSPLus如何配置分发IP地址"}
+{"id": 99, "query": "ZXUN uMAC管理平面采用了哪些安全措施。"}
+{"id": 100, "query": "ZXUN uMAC针对密码安全保护，采用哪些安全措施。"}
+{"id": 101, "query": "如何查询指定用户详单？"}
+{"id": 102, "query": "业务告警分哪几种？"}
+{"id": 103, "query": "ZXUN uMAC系统为什么采用服务化架构"}
