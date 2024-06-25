@@ -34,7 +34,7 @@ def parse_zedx(input_path, output_path, error_path):
                 rawdata = open(file, "rb").read()
                 result = chardet.detect(rawdata)
                 encoding = result["encoding"]
-                with open(file, "r", encoding=encoding):
+                with open(file, "r", encoding=encoding) as f:
                     html_content = f.read()
 
         soup = BeautifulSoup(html_content, "html.parser")
